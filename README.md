@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Live Demo:
+https://weather-app-gk.netlify.app/
+#### Image:
+![react weather app 2 ](https://user-images.githubusercontent.com/52570524/93844990-d7098d00-fcbc-11ea-90bf-b5fe50b654bf.png)
+
 
 ## Available Scripts
 
